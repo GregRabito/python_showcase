@@ -1,1 +1,1 @@
-This file is the final code in a 10 step process of cleaning,merging, analyzing, and creating visualization for Instacart, an online grocery shopping service. This file is the final produt after each step in the pipeline has been completed.
+These files are from an independant project of researching and analyzing the Department of Homeless Services (DHS) in NYC. My passion is serving the unhoused. This project looks at cases and individuals staying in DHS shelters in the five boroughs.
